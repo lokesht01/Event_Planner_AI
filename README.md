@@ -27,9 +27,7 @@ AI-powered event planning assistant built with CrewAI and Streamlit.
 5. **Configure environment variables**
    
    Create `.env` file:
-   ```
   API_KEY=your_api_key_here
-   ```
 
 ## Run
 
